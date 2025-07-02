@@ -4,7 +4,7 @@
 <i><h3>About me</h3></i>
 <p>I am a <b>Computer Science</b> student. I love learning things that challenge me, and I am currently studying AI/ML while getting into competitive programming.</p>
 
- 📫 How to reach me for work<b>-></b> **contact.gishnu45@gmail.com**
+📫 Contact for Work: contact.gishnu45@gmail.com
 
 <i><h3>Connect with me</h3></i>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -16,6 +16,7 @@
 </p>
 
 <i><h3>Technologies Used</h3></i>
+<p style="text-align: center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,6 +26,7 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
 
 <i><h3>Software Used</h3></i>
 | Purpose         | Tools                                                              |
