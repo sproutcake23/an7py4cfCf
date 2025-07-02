@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm Gishnu Gompa</h1>
-<h3 align="center">A passionate coder</h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/sproutcake23">Gishnu Gompa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sproutcake23&label=Profile%20views&color=0e75b6&style=flat" alt="sproutcake23" /> </p>
+<i><h3>About me</h3></i>
+<p>I am a <b>Computer Science</b> student. I love learning things that challenge me, and I am currently studying AI/ML while getting into competitive programming.</p>
 
-- 🌱 I’m currently learning **Python**
+ 📫 How to reach me for work<b>-></b> **contact.gishnu45@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sproutcake23](https://github.com/sproutcake23)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **contact.gishnu45@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<i><h3>Connect with me</h3></i>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p>
 <a href="https://linkedin.com/in/gishnu gompa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gishnu gompa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sprout24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sprout24" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sprout89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sprout89" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sprout42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sprout42" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<i><h3>Technologies Used</h3></i>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sproutcake23&show_icons=true&locale=en&layout=compact" alt="sproutcake23" /></p>
+<i><h3>Software Used</h3></i>
+| Purpose         | Tools                                                              |
+| --------------- | ------------------------------------------------------------------ |
+| Programming     | NeoVim, VSCode, Sublime, Jupyter                                   |
+| 3D              | Blender                                                           |
+| 2D              | Graphite                                                          |
+| Notetaking      | MS Office, jrnl                                                  |
+| Virtual Machine  | VMware Workstation Pro                                            |
+| Research        | Overleaf                                                         |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sproutcake23&show_icons=true&locale=en" alt="sproutcake23" /></p>
+This is not a complete list; things may change over time!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sproutcake23&" alt="sproutcake23" /></p>
-
+<i><h3>Acknowledgements</h3></i>
+The badge Markdown code is taken from the list at [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges), and the badges in the "Connect with Me" section are generated using [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator?tab=readme-ov-file). Do check out and support the authors.
